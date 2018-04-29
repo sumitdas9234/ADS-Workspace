@@ -5,7 +5,7 @@ function preload() {
 function setup() {
   console.log("Hello, This is the setup() function!");
   canvas = createCanvas(1175, 550);
-  setTitle("Hash tables");
+  setTitle("Title");
   canvas.position(100, 80);
 }
 
